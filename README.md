@@ -1,2 +1,2 @@
 # user-manual
-A user manual / working with me document
+A "user manual" or "working with me" document
